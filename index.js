@@ -8,7 +8,7 @@ var b7 = document.getElementById("btn_7");
 var b8 = document.getElementById("btn_8");
 var b9 = document.getElementById("btn_9");
 
-var c_player = document.getElementById("para_Player");
+var c_player = document.getElementById("para_player");
 var count = 0;
 
 var cur_Player = 'X';
