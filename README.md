@@ -1,4 +1,4 @@
-This a special 4 by 4 tic tac toe. The rules are same.
+This is a special 4 by 4 tic tac toe. The rules are same.
 Enjoy :)
 
 ## Available Scripts
