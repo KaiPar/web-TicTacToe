@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This a special 4 by 4 tic tac toe. The rules are same.
+Enjoy :)
 
 ## Available Scripts
 
