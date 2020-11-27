@@ -1,4 +1,4 @@
-This is a special 4 by 4 tic tac toe. The rules are same.
+This is a special 4 by 4 tic tac toe. The rules are similar to a 3x3 TicTacToe or a normal TicTacToe game.
 Enjoy :)
 
 ## Available Scripts
